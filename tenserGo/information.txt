@@ -1,0 +1,20 @@
+#large language model:-
+
+
+1) llm stands for large language model --->it said to contain trillions of information of neural networks-->Wikipedia,books,google files
+2)chatgpt uses llm gpt3 and gpt4
+3)google uses palm2 llm
+4)meta uses LLaMa
+5)llm uses reinforcement learning with human feedback
+
+
+ #prompt model:-
+
+
+prompt:- it is a text based input given to the model as a query
+1)it includes question asked.
+2)tone mentioned in the query.
+3)the context given for the query.
+4)the format of output expected.
+
+prompt engineers are engineers that write prompts which generate desired output .
